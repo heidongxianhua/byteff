@@ -2,6 +2,11 @@
 Welcome to the repository of ByteFF!
  This repository hosts the source code for ByteFF paper.
 
+## Use ByteFF
+We offer a free trial of ByteFF through our API service.
+
+For further details, please reach out to zhengtianze@bytedance.com.
+
 ## Model architecture
 <img src="./Model.png" alt="plot" height="500">
 
@@ -35,12 +40,15 @@ Please adhere to the Apache 2.0 license and cite our paper if you utilize this d
 
 If you use ByteFF in your research, please cite:
 ```
-@article{zheng2024data,
-  title={Data-Driven Parametrization of Molecular Mechanics Force Fields for Expansive Chemical Space Coverage},
-  author={Zheng, Tianze and Wang, Ailun and Han, Xu and Xia, Yu and Xu, Xingyuan and Zhan, Jiawei and Liu, Yu and Chen, Yang and Wang, Zhi and Wu, Xiaojie and others},
-  journal={arXiv preprint arXiv:2408.12817},
-  year={2024}
-}
+@Article{D4SC06640E,
+author ="Zheng, Tianze and Wang, Ailun and Han, Xu and Xia, Yu and Xu, Xingyuan and Zhan, Jiawei and Liu, Yu and Chen, Yang and Wang, Zhi and Wu, Xiaojie and Gong, Sheng and Yan, Wen",
+title  ="Data-driven parametrization of molecular mechanics force fields for expansive chemical space coverage",
+journal  ="Chem. Sci.",
+year  ="2025",
+pages  ="-",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/D4SC06640E",
+url  ="http://dx.doi.org/10.1039/D4SC06640E"}
 ```
 
 ## License
